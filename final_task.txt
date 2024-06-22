@@ -11,3 +11,10 @@ Opportunities to learn in any format, language learning, unique academic program
 
 Retrospective:
 Add cons of the education! Fix the problem with the last sentence
+
+Sprint 3: Adding cons
+The cons of such training:
+There is still misunderstanding among cultures, international students have homesickness
+
+Retrospective:
+We need to add a conclusion. It must be shown that the pros cover all the cons
